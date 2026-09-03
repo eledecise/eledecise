@@ -1,4 +1,4 @@
-<h1 align="center">Ciao, sono Elettra 👋</h1>
+
 <h3 align="center">Junior Full Stack Developer | Filosofia & Etica della Tecnologia | Back Office & Project Support</h3>
 
 <p align="center">
@@ -44,7 +44,7 @@ Questa combinazione mi ha dato precisione, capacità organizzativa e un approcci
 ### Contatti
 
 <p align="left">
-  <a href="https://linkedin.com/in/elettradecise" target="_blank">
+  <a href="https://linkedin.com/in/elettra-decise" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
